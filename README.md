@@ -23,4 +23,4 @@ This code was previously tested on a system containing a
 semi-flexible ring-shape polymer and multiple rigid polymers,
 modeling the cell membrane and Cytoskeleton filaments, respectively.
 The model then was used to study the cell motility on a substrate
-(a published work which can be found [here] (https://pubs.rsc.org/en/content/articlelanding/2017/sm/c7sm00439g/unauth#!divAbstract)).
+(a published work which can be found [here](https://pubs.rsc.org/en/content/articlelanding/2017/sm/c7sm00439g/unauth#!divAbstract)).
