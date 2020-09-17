@@ -1,4 +1,4 @@
-# Msc_project
+# Simulating the dynamics of flexible, semi-flexible, and rigid polymers, using a quasi 2D model
 
 This is a C++ package developed for simulating different polymer-like
 structures. The code is capable of constructing, modeling, and
